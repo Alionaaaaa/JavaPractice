@@ -28,7 +28,7 @@ public class IfElseClass {
         }
 
         else{
-                    System.out.printf("Unfortunatelly you did not completed the plan of %d  expected sales", expectedSales);
+                    System.out.printf("Unfortunately you did not completed the plan of %d  expected sales", expectedSales);
         }
 
     }
